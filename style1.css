@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.forma{
+    list-style-type: none;
+    width: 300px;
+    margin: auto;
+    padding: 15px;
+}
+
+.medida{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3px;
+    text-align: center;
+}
+
+h1,h2,h3,h4{
+    text-align: center;
+}
+
+div{
+    margin: auto;
+}
+
+h5{
+    font-size: 13px;
+}
+
+
+
+.tamaño1{
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+}
